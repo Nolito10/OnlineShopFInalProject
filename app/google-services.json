@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644465511788",
+    "project_id": "onlineshopfinalproject",
+    "storage_bucket": "onlineshopfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644465511788:android:53a82c1d3493fb6badf749",
+        "android_client_info": {
+          "package_name": "com.nicatech.onlineshopfinalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAykcDcS0uf2IchiUuuG2LAg8dp2QFg6b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

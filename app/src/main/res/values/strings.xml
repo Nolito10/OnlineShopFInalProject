@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OnlineShopFInalProject</string>
+    <string name="title">title</string>
+    <string name="_123">$123</string>
+    <string name="__123">$123</string>
+    <string name="todo4" />
+    <string name="todo2">todo2</string>
+    <string name="todo1">todo!</string>
+    <string name="todo">todo</string>
+    <string name="back_button_description">Back button</string>
+    <string name="favorite_button_description">Favorite button</string>
+    <string name="share_button_description">Share button</string>
+    <string name="viewpager_slider_description">Image slider</string>
+    <string name="title_text_description">Product title</string>
+    <string name="price_text_description">Product price</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rating_bar_description" />
+    <string name="rating_text_description" />
+    <string name="description_label_description" />
+    <string name="description_text_description" />
+    <string name="tab_layout_description" />
+    <string name="viewpager_description" />
+    <string name="add_to_cart_button_description" />
+    <string name="tab_layoutdescription" />
+</resources>
